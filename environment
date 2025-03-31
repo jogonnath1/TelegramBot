@@ -1,0 +1,4 @@
+import os
+
+bot_token = os.environ.get('7958714981:AAGtL6gMzrvevBK2S8osBAcPVW-GqdWTNxs')
+group_id = os.environ.get('-1002483552499')
